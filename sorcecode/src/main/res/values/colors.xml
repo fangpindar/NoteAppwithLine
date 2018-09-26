@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4892FF</color>
+    <color name="colorPrimaryDark">#124a9f</color>
+    <color name="base_blue_dark">#3183ff</color>
+    <color name="blue_statusbar">#4290ff</color>
+    <color name="base_blue_light">#4892FF</color>
+    <color name="mainbg">#0dbecae1</color>
+    <color name="nevbar">#8096B4</color>
+    <color name="accent_material_light">#4e86ff</color>
+    <color name="foreground_material_light">#276fff</color>
+</resources>

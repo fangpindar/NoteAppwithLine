@@ -1,0 +1,5 @@
+pymongo
+dnspython
+Flask
+line-bot-sdk
+flask
